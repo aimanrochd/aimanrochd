@@ -5,5 +5,8 @@
 </p>
 
 <div align="center">
-<img src="https://badge.mediaplus.ma/greenbinary/arochd" width="600"/>
+  <img
+    src="https://badge.mediaplus.ma/greenbinary/arochd"
+    width="520"
+  />
 </div>
