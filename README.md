@@ -1,12 +1,7 @@
-<h2 align="center">👋 Hi, I'm Aiman</h2>
-
-<p align="center">
-42 Cadet • C • Algorithms • Systems
-</p>
-
-<div align="center">
-  <img
-    src="https://badge.mediaplus.ma/greenbinary/arochd"
-    width="520"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://badge.mediaplus.ma/greenbinary/arochd" width="520"/>
+    </td>
+  </tr>
+</table>
