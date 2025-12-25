@@ -1,1 +1,5 @@
-[![arochd's 42 stats](https://badge.mediaplus.ma/greenbinary/arochd)](https://github.com/oakoudad/badge42)
+<div align="center">
+
+<img src="https://badge.mediaplus.ma/greenbinary/arochd" alt="42 badge"/>
+
+</div>
