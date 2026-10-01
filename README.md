@@ -9,7 +9,7 @@
 </div>
 
 # 💫 About Me:
-💻 Computer Science student at 1337  <br>🚀 I love algorithms, data structures, and solving challenging problems  <br>🔍 Always learning, building, exploring things
+💻 Software/Ai engineering student at 1337  <br>🚀 I love algorithms, data structures, and solving challenging problems  <br>🔍 Always learning, building, exploring things
 
 
 ## 🌐 Socials:
